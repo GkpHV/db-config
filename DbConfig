@@ -1,0 +1,6 @@
+url= jdbc\:oracle\:thin\:@localhost\:1521\:RBC
+username=afs_owner
+password=afs_owner
+driver-class-name=oracle.jdbc.driver.OracleDriver
+
+dialect=org.hibernate.dialect.Oracle10gDialect   
